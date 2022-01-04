@@ -22,6 +22,7 @@
     "js-data": "^3.0.10",
     "mattermost-mobile": "^0.0.1-security",
     "mattermost-mobile-e2e": "^0.0.1-security",
+    "mermaid": "^0.2.11",
     "parse-link-header": "1.0.1"
   }
 }
