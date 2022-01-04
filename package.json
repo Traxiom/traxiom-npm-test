@@ -19,6 +19,7 @@
   "dependencies": {
     "@fabiocaccamo/utils.js": "^0.17.1",
     "discordjs-lofy": "^0.0.1-security",
+    "jquery.terminal": "^1.20.4",
     "js-data": "^3.0.10",
     "mattermost-mobile": "^0.0.1-security",
     "mattermost-mobile-e2e": "^0.0.1-security",
