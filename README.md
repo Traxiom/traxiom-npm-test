@@ -6,6 +6,8 @@ Vulnerable NPM Application for Testing Traxiom Vulnerability Scanning
 
 ## Adding Dependencies
 
+The following command adds a package without creating `node_modules/`.
+
 `npm install --package-lock-only <package>@vulnerable-version`
 
 ## Removing Dependencies
