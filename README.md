@@ -4,10 +4,10 @@ Vulnerable NPM Application for Testing Traxiom Vulnerability Scanning
 
 **DO NOT** `npm install` this repo.
 
-# Adding Dependencies
+## Adding Dependencies
 
 `npm install --package-lock-only <package>@vulnerable-version`
 
-# Removing Dependencies
+## Removing Dependencies
 
 `npm uninstall <package>`
