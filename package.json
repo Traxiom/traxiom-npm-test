@@ -22,6 +22,7 @@
     "istanbul-reports": "^3.1.2",
     "jquery.terminal": "^1.20.4",
     "js-data": "^3.0.10",
+    "jsuites": "^4.9.10",
     "mattermost-mobile": "^0.0.1-security",
     "mattermost-mobile-e2e": "^0.0.1-security",
     "mermaid": "^0.2.11",
